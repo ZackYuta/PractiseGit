@@ -12,8 +12,8 @@ enum Feeling {
             return "Hello, so hot today! ah?"
         case .samui:
             return "Hello, today is so cold! Isn't it?"
-        case .futsuu:
-            return "Hello! It's nice weather today!"
+        case .hisashiburi:
+            return "Hello! How have you been?!"
         }
     }
 }
