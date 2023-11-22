@@ -13,7 +13,7 @@ enum Feeling {
         case .samui:
             return "Hello, today is so cold! Isn't it?"
         case .futsuu:
-            return "Hello! "
+            return "Hello! It's nice weather today!"
         }
     }
 }
