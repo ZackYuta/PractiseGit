@@ -9,11 +9,11 @@ enum Feeling {
         switch self {
             
         case .atsui:
-            return "Urrrrrrryyyyyyyy!"
-        case .tsumetai:
-            return "I feel you're unfriendly today..."
-        case .ushirometai:
-            return "What happen to you? "
+            return "Hello, so hot today! ah?"
+        case .samui:
+            return "Hello, today is so cold! Isn't it?"
+        case .futsuu:
+            return "Hello! "
         }
     }
 }
